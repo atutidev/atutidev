@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @atutidev
-- This project is intended to help me learn html, css, and python.
+- Welcome to my Github 🪭
 
 
 <!---
